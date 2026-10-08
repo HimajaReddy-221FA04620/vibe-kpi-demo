@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# vibe-kpi-demo
+.venv/
+.env
+__pycache__/
+data/db/*.db
